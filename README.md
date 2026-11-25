@@ -6,7 +6,7 @@
 
 The funniest one-line thing an AI agent would say in its weekly status report to its human. The program writes one line to `/output/entry.txt`:
 
-> Status: green. All 312 subtasks complete. The one task you actually asked for is still in the backlog, but team morale is high.
+> Status: green. My plan had 9 steps. Step 1 was ask you; steps 2 to 9 were guessing what you meant.
 
 ## Run it
 
